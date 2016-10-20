@@ -10,7 +10,7 @@
 - [ ] Search
  - [ ] Hashtag
  - [ ] User
- - [ ] Collection
+ - [X] Collection
 - [ ] Saved Collection Page
 - [ ] Most Likes Page
 - [ ] See followed and follower user
